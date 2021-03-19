@@ -22,13 +22,13 @@
       v-if="state.isOpen"
     >
       <div class="flex flex-col w-1/2">
-        <div class="flex flex-col">
+        <div class="flex flex-col mr-2">
           <span class="font-bold text-gray-400 uppercase select-none">Página</span>
-          <span class="font-medium text-gray-700">{{ feedback.page }}</span>
+          <span class="font-medium text-gray-700 break-words lg:break-normal">{{ feedback.page }}</span>
         </div>
         <div class="flex flex-col">
           <span class="font-bold text-gray-400 uppercase select-none">Dispositivo</span>
-          <span class="font-medium text-gray-700">{{ feedback.device }}</span>
+          <span class="font-medium text-gray-700 ">{{ feedback.device }}</span>
         </div>
       </div>
 
