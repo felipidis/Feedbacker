@@ -4,7 +4,7 @@ export function validatePassword (value) {
   }
 
   if (value.length < 6) {
-    return '*Mínimo de 6 caracteres  '
+    return '*Mínimo de 6 caracteres'
   }
 
   return true
@@ -29,7 +29,7 @@ export function validateName (value) {
   }
 
   if (value.length < 3) {
-    return '*Mínimo de 3 caracteres  '
+    return '*Mínimo de 3 caracteres'
   }
 
   return true
