@@ -13,7 +13,7 @@
   </div>
 
   <div class="flex justify-center w-full pb-20">
-    <div class="w-4/5 max-w-6xl py-10 sm:grid grid-cols-4 gap-2">
+    <div class="w-full sm:w-4/5 max-w-6xl py-10 sm:grid grid-cols-4 gap-2">
       <div>
         <h1 class="text-3xl font-black text-brand-darkgray">
           Listagem
