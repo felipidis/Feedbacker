@@ -2,8 +2,8 @@ module.exports = {
   users: [
     {
       id: 'eab759f8-f238-4ff9-ae91-ee1558982329',
-      name: 'Felipe',
-      email: 'felipekdra@gmail.com',
+      name: 'Jhon',
+      email: 'teste@gmail.com',
       password: '123456',
       apiKey: ['fcd5015c-10d3-4e9c-b395-ec7ed8850165'],
       createdAt: new Date('2020-09-05').getTime()
